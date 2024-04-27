@@ -3,14 +3,14 @@
 ###
 <p align="left">My name is <b>Rafał</b> and I'm a ..., from Poland<br></p>
 
-##
+#
 <h2 align="left">💫 About Me:</h2>
 
 
 ###
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🔭 I’m currently working on<br></p>
 
-##
+#
 <h2 align="left">🛠 Language and tools</h2>
 
 ###
@@ -44,7 +44,7 @@
   <img width="12" />
 --->
 
-## 
+# 
 <h2 align="left">🌐 Socials:</h2>
 
 ###
