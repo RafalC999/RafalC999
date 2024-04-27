@@ -1,21 +1,21 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+> <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 <p align="left">My name is <b>Rafał</b> and I'm a ..., from Poland<br></p>
 
-#
+
 <h2 align="left">💫 About Me:</h2>
 
-
 ###
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🔭 I’m currently working on<br></p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Docker<br>🔭 I’m currently working on application for allotment gardeners<br> ⚡ In my free time I:</p>
+<p align="left">⚡ In my free time I:   🏍️    🎮  👨‍💻 </p>
 
-#
 <h2 align="left">🛠 Language and tools</h2>
 
 ###
+
 <div align="center">
-    <div style="margin-bottm:100px">
+    <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"   />
       <img width="20"/>
     </div>
@@ -44,7 +44,6 @@
   <img width="12" />
 --->
 
-# 
 <h2 align="left">🌐 Socials:</h2>
 
 ###
