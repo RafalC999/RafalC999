@@ -13,7 +13,7 @@
     &nbsp&nbsp&nbsp&nbsp&nbsp 🎮 playing games.
 </p>
 
-<h2 align="left">🛠 Language and tools 🛠</h2>
+<h2 align="left">🛠 Language and tools </h2>
 
 ###
 
