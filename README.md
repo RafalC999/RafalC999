@@ -1,4 +1,4 @@
-> <h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 <p align="left">My name is <b>Rafał</b> and I'm a ..., from Poland<br></p>
@@ -7,10 +7,13 @@
 <h2 align="left">💫 About Me:</h2>
 
 ###
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Docker<br>🔭 I’m currently working on application for allotment gardeners<br> ⚡ In my free time I:</p>
-<p align="left">⚡ In my free time I:   🏍️    🎮  👨‍💻 </p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Docker.<br>🔭 I’m currently working on application for allotment gardeners.<br> ⚡ In my free time I:<br>
+    &nbsp&nbsp&nbsp&nbsp&nbsp 🏍️ riding my motorbike,<br>
+    &nbsp&nbsp&nbsp&nbsp&nbsp 👨‍💻 CAD designing,<br>
+    &nbsp&nbsp&nbsp&nbsp&nbsp 🎮 playing games.
+</p>
 
-<h2 align="left">🛠 Language and tools</h2>
+<h2 align="center">🛠 Language and tools 🛠</h2>
 
 ###
 
