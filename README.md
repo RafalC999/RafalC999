@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-<p align="left">My name is <b>Rafał</b> and I'm a ..., from Poland<br></p>
+<p align="left">My name is <b>Rafał</b> and I'm an <b>engineer</b>, from <b>Poland.</b><br></p>
 
 
 <h2 align="left">💫 About Me:</h2>
@@ -13,17 +13,19 @@
     &nbsp&nbsp&nbsp&nbsp&nbsp 🎮 playing games.
 </p>
 
-<h2 align="center">🛠 Language and tools 🛠</h2>
+<h2 align="left">🛠 Language and tools 🛠</h2>
 
 ###
 
-<div align="center">
+<div align="left">
     <div>
+        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"   />
       <img width="20"/>
     </div>
     &nbsp
     <div>
+        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"/>
       <img width="20" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
@@ -39,6 +41,8 @@
       <img width="20" />
     </div>
 </div>
+
+
 
 <!---
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
